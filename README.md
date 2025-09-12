@@ -3,7 +3,7 @@
 Saudações! 👋
 
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Impact&size=60&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Ae+mano!+👋;+Me+chamo++Jeronimo+😁!;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Impact&size=60&center=true&vCenter=true&color=F7622C&width=600&height=70&duration=4000&lines=Ae+mano!+👋;+Me+chamo+Jeronimo+😁+!;+Me+contrata+!" />
 </h1>
 <h3>Analista de dados </h3>
 
