@@ -3,7 +3,7 @@
 Saudações! 👋
 
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Impact&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Ae+mano!+👋;+Me+chamo++Jeronimo+😁!;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Impact&size=50&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Ae+mano!+👋;+Me+chamo++Jeronimo+😁!;" />
 </h1>
 <h3>Analista de dados </h3>
 
@@ -28,11 +28,11 @@ Here are some ideas to get you started: -->
 ##
 
 <div style="display: inline_block"><br>
-  <img align="center" alt="Jero-Py" height="50" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg">
-  <img align="center" alt="Jero-SQL" height="50" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg">
-  <img align="center" alt="Jero-VCcode" height="50" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original-wordmark.svg">
-  <img align="center" alt="Jero-Streamlit" height="50" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/streamlit/streamlit-original-wordmark.svg">
-  <img align="center" alt="Jero-Pandas" height="50" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original-wordmark.svg">
+  <img align="center" alt="Jero-Py" height="70" width="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg">
+  <img align="center" alt="Jero-SQL" height="70" width="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg">
+  <img align="center" alt="Jero-VCcode" height="70" width="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original-wordmark.svg">
+  <img align="center" alt="Jero-Streamlit" height="70" width="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/streamlit/streamlit-original-wordmark.svg">
+  <img align="center" alt="Jero-Pandas" height="70" width="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original-wordmark.svg">
  
 </div>
 
