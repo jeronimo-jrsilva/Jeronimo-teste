@@ -29,6 +29,7 @@ Here are some ideas to get you started: -->
   <img align="center" alt="Jero-SQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg">
   <img align="center" alt="Jero-VCcode" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original-wordmark.svg">
   <img align="center" alt="Jero-Streamlit" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/streamlit/streamlit-original-wordmark.svg">
+  <img align="center" alt="Jero-Pandas" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original-wordmark.svg">
  
 </div>
 
