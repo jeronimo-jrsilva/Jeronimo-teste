@@ -3,7 +3,7 @@
 Saudações! 👋
 
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Impact&size=60&center=true&vCenter=true&color=F7622C&width=600&height=70&duration=4000&lines=Ae+mano!+👋;+Me+chamo+Jeronimo+😁+!;+Me+contrata+!" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Impact&size=60&center=true&vCenter=true&color=f92672&width=600&height=70&duration=4000&lines=Ae+mano!+👋;+Me+chamo+Jeronimo+😁+!;+Me+contrata+!" />
 </h1>
 <h3>Analista de dados </h3>
 
@@ -20,9 +20,9 @@ Here are some ideas to get you started: -->
 ##
 <div>
   <a href="https://github.com/Jeronimo-teste"> 
-<img height="42%" src="https://github-readme-stats.vercel.app/api?username=Jeronimo-teste&show_icons=true&theme=gruvbox&include_all_commits=true&count_private=true"/>
+<img height="42%" src="https://github-readme-stats.vercel.app/api?username=Jeronimo-teste&show_icons=true&theme=monokai&include_all_commits=true&count_private=true"/>
   <img height="50%
-" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jeronimo-teste&layout=compact&langs_count=16&theme=gruvbox"/>
+" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jeronimo-teste&layout=compact&langs_count=16&theme=monokai"/>
 </div>
       
 ##
