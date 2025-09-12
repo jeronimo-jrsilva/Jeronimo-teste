@@ -3,7 +3,7 @@
 Saudações! 👋
 
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Impact&size=50&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Ae+mano!+👋;+Me+chamo++Jeronimo+😁!;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Impact&size=60&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Ae+mano!+👋;+Me+chamo++Jeronimo+😁!;" />
 </h1>
 <h3>Analista de dados </h3>
 
@@ -51,3 +51,6 @@ Here are some ideas to get you started: -->
 
 </div>
 
+##
+
+![Snake animation](https://github.com/Jeronimo-teste/Jeronimo-teste/blob/output/github-contribution-grid-snake.svg)
